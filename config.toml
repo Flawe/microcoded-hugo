@@ -1,4 +1,4 @@
-baseurl = "flaviusalecu.com"
+baseurl = "/"
 languageCode = "en-us"
 title = "Flavius Alecu"
 theme = "hugo-steam-theme"
