@@ -3,7 +3,7 @@
 echo -e "\033[0;32mDeploying updates to GitHub...\033[0m"
 
 # build
-hugo -t hugo-steam-theme
+hugo #-t hugo-steam-theme
 
 # commit public site
 cd public
