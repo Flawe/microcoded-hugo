@@ -1,0 +1,62 @@
+baseurl = "http://flaviusalecu.com/"
+languageCode = "en-us"
+title = "Flavius Alecu"
+theme = "hugo-steam-theme"
+googleAnalytics = ""
+paginate = 10
+sectionPagesMenu = "main"
+
+[params]
+	title = "Flavius Alecu"
+	subtitle = ""
+	copyright = "All rights reserved."
+
+	# green, orange, red, blue.
+	themecolor = "red"
+
+	favicon   = "favicon.ico"
+	customCSS = []
+	customJS  = []
+
+	name = "Flavius Alecu"
+	bio = "lead engine programmer, rockstar games, san diego"
+	description = ""
+	
+	location = "San Diego, CA"
+	twitter = "flawe"
+	linkedin = "alecu"
+	googleplus = ""
+	facebook = ""
+	instagram = ""
+	github = "flawe"
+	gitlab = ""
+	bitbucket = ""
+
+	keepReadingStr = "Keep reading"
+	backtotopStr = "Back to top"
+	shareStr = "Share"
+	pageNotFoundTitle = "404 - Page not found"
+
+[[menu.main]]
+	name = "Work"
+	weight = 2
+	identifier = "work"
+	url = "/work/"
+
+[[menu.main]]
+	name = "Projects"
+	weight = 3
+	identifier = "projects"
+	url = "/projects/"
+
+[[menu.main]]
+	name = "Shorts"
+	weight = 4
+	identifier = "shorts"
+	url = "/shorts/"
+
+[[menu.main]]
+	name = "Contact"
+	weight = 5
+	identifier = "contact"
+	url = "/contact/"
