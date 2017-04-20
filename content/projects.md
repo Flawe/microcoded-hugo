@@ -4,6 +4,13 @@ hideDate = true
 hide = true
 +++
 
+[Ascent](/doc/ascent_report_flavius_alecu.pdf) - 2017
+
+![](/img/ascent.gif)
+
+As a programming project for school I wrote this little inspired clone in C++ with the help of SDL2. It's a fairly simple project but has some nice litte quirks. All art (level geometry, enemy ships, even the UI) is procedurally generated, a custom 3D A* algorithm was used to connect the rooms with tunnels for the endless levels, and OpenGL 4.3 is heavily underutilized for the few particle systems that run in compute. Oh, it's also a deferred renderer (not that it makes much of a difference here) with the inevitable cheap bloom.
+
+---
 [Irregular Adaptive Shadow Maps](http://pubs.flaviusalecu.com/iasm_thesis_alecu.pdf) - 2014
 
 ![](/img/iasm.jpg)
