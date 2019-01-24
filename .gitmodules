@@ -2,3 +2,7 @@
 	path = public
 	url = git@github.com:Flawe/Flawe.github.io.git
 	branch = master
+[submodule "themes/hugo-steam-theme"]
+	path = themes/hugo-steam-theme
+	url = git@github.com:Flawe/hugo-steam-theme.git
+	branch = master
