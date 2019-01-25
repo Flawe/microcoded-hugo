@@ -4,8 +4,13 @@ hideDate = true
 hide = true
 +++
 
-Red Dead Redemption 2 - 2017
-{{< youtube gmA6MrX81z4 >}}
+Red Dead Online - 2018
+
+![](/img/rdo_beta.jpg)
+
+---
+Red Dead Redemption 2 - 2018
+{{< youtube Dw_oH5oiUSE >}}
 
 ---
 Grand Theft Auto V - PS4/XB1 - 2014
