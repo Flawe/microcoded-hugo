@@ -4,9 +4,12 @@ hideDate = true
 hide = true
 +++
 
-Red Dead Online - 2018
+Red Dead Redemption 2 - PC/Stadia - 2019
+{{< youtube SXvQ1nK4oxk >}}
 
-![](/img/rdo_beta.jpg)
+---
+Red Dead Online - 2018
+{{< youtube x4BoyKLw1Mk >}}
 
 ---
 Red Dead Redemption 2 - 2018
