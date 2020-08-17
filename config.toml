@@ -6,6 +6,8 @@ googleAnalytics = ""
 paginate = 10
 sectionPagesMenu = "main"
 
+disableKinds = ["RSS"]
+
 [params]
 	title = "Flavius Alecu"
 	subtitle = ""
@@ -19,7 +21,7 @@ sectionPagesMenu = "main"
 	customJS  = []
 
 	name = "Flavius Alecu"
-	bio = "lead engine programmer, rockstar games, san diego"
+	bio = "software engineer, sie wws tnt"
 	description = ""
 	
 	location = "San Diego, CA"

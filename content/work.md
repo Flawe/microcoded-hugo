@@ -4,6 +4,10 @@ hideDate = true
 hide = true
 +++
 
+PlayStation 5 - 2020
+{{< youtube RkC0l4iekYo >}}
+
+---
 Red Dead Redemption 2 - PC/Stadia - 2019
 {{< youtube SXvQ1nK4oxk >}}
 
