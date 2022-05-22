@@ -21,16 +21,16 @@ disableKinds = ["RSS"]
 	customJS  = []
 
 	name = "Flavius Alecu"
-	bio = "software engineer, sie wws tnt"
+	bio = ""
 	description = ""
 	
-	location = "San Diego, CA"
-	twitter = "flawe"
+	location = ""
+	twitter = ""
 	linkedin = "alecu"
 	googleplus = ""
 	facebook = ""
 	instagram = ""
-	github = "flawe"
+	github = ""
 	gitlab = ""
 	bitbucket = ""
 
@@ -45,20 +45,20 @@ disableKinds = ["RSS"]
 	identifier = "work"
 	url = "/work/"
 
-[[menu.main]]
-	name = "Projects"
-	weight = 3
-	identifier = "projects"
-	url = "/projects/"
-
-[[menu.main]]
-	name = "Shorts"
-	weight = 4
-	identifier = "shorts"
-	url = "/shorts/"
-
-[[menu.main]]
-	name = "Contact"
-	weight = 5
-	identifier = "contact"
-	url = "/contact/"
+#[[menu.main]]
+#	name = "Projects"
+#	weight = 3
+#	identifier = "projects"
+#	url = "/projects/"
+#
+#[[menu.main]]
+#	name = "Shorts"
+#	weight = 4
+#	identifier = "shorts"
+#	url = "/shorts/"
+#
+#[[menu.main]]
+#	name = "Contact"
+#	weight = 5
+#	identifier = "contact"
+#	url = "/contact/"
