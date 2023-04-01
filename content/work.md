@@ -4,6 +4,14 @@ hideDate = true
 hide = true
 +++
 
+MindsEye - 2023
+{{< youtube _modffJe9s4 >}}
+
+---
+Everywhere - 2023
+{{< youtube mDM0Om26R8k >}}
+
+---
 PlayStation 5 - 2020
 {{< youtube RkC0l4iekYo >}}
 
